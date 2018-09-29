@@ -1,5 +1,5 @@
 print "hc"
-print "c hai"
+print "c nhi hai"
 
 x = 1
 x = 2
