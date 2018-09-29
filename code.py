@@ -1,2 +1,6 @@
 print "hc"
 print "c hai"
+
+x = 1
+x = 2
+x = 3
